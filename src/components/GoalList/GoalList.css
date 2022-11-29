@@ -1,0 +1,17 @@
+.list{
+    color: darkgreen;
+    display: flexbox;
+    border: 1px black;
+    margin: 2rem;
+    padding: 0;
+    list-style: none;
+    
+  }
+  .list_li{
+    margin: 1rem;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    background-color: lightblue;
+    font-size: 16px;
+    font-weight: 500 bold;
+  }
